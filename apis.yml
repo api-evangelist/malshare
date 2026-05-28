@@ -1,0 +1,32 @@
+aid: malshare
+name: MalShare
+description: "Malware Archive / file sourcing"
+url: https://malshare.com/doc.php
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Anti-Malware"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Anti Malware
+  - Public APIs
+apis:
+  - name: MalShare
+    description: "Malware Archive / file sourcing"
+    humanURL: https://malshare.com/doc.php
+    baseURL: https://malshare.com/doc.php
+    tags:
+      - Anti Malware
+    properties:
+      - type: Documentation
+        url: https://malshare.com/doc.php
+common:
+  - type: Website
+    url: https://malshare.com/doc.php
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
