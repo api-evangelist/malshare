@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://malshare.com/doc.php
 common:
+  - type: VulnerabilityDisclosure
+    url: security/malshare-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/malshare-domain-security.yml
   - type: Website
     url: https://malshare.com/doc.php
   - type: PublicAPIsListing
