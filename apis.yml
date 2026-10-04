@@ -39,7 +39,6 @@ apis:
   - name: MalShare
     description: "Malware Archive / file sourcing"
     humanURL: https://malshare.com/doc.php
-    baseURL: https://malshare.com/doc.php
     tags:
       - Anti Malware
     properties:
